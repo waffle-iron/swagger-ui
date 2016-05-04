@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/zdhuka/swagger-ui.png?label=ready&title=Ready)](https://waffle.io/zdhuka/swagger-ui)
 # Swagger UI
 
 [![Build Status](https://travis-ci.org/swagger-api/swagger-ui.svg?branch=master)](https://travis-ci.org/swagger-api/swagger-ui)
